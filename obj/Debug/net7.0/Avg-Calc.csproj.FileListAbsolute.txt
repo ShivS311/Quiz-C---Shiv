@@ -1,0 +1,15 @@
+C:\Users\s.soni2\Downloads\Avg-Calc\bin\Debug\net7.0\Avg-Calc.exe
+C:\Users\s.soni2\Downloads\Avg-Calc\bin\Debug\net7.0\Avg-Calc.deps.json
+C:\Users\s.soni2\Downloads\Avg-Calc\bin\Debug\net7.0\Avg-Calc.runtimeconfig.json
+C:\Users\s.soni2\Downloads\Avg-Calc\bin\Debug\net7.0\Avg-Calc.dll
+C:\Users\s.soni2\Downloads\Avg-Calc\bin\Debug\net7.0\Avg-Calc.pdb
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.csproj.AssemblyReference.cache
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.AssemblyInfoInputs.cache
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.AssemblyInfo.cs
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.csproj.CoreCompileInputs.cache
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.dll
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\refint\Avg-Calc.dll
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.pdb
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\Avg-Calc.genruntimeconfig.cache
+C:\Users\s.soni2\Downloads\Avg-Calc\obj\Debug\net7.0\ref\Avg-Calc.dll
